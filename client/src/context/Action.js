@@ -1,0 +1,2 @@
+export var DISPLAY_ALERT = "DISPLAY_ALERT";
+export var CLEAR_ALERT = "CLEAR_ALERT";
